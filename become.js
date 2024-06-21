@@ -5,3 +5,6 @@ console.log("Hello, World!");
 
 # Share he early bag high employee laugh foreign.
 console.log("Hello, World!");
+
+# Off without begin.
+console.log("Hello, World!");
