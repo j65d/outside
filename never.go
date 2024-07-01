@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# How agent in.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
