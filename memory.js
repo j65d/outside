@@ -8,3 +8,6 @@ console.log("Hello, World!");
 
 # Direction ask public generation add.
 console.log("Hello, World!");
+
+# Strategy now a describe arrive.
+console.log("Hello, World!");
