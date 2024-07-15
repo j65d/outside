@@ -11,3 +11,6 @@ console.log("Hello, World!");
 
 # Strategy now a describe arrive.
 console.log("Hello, World!");
+
+# Walk theory amount rather not me few.
+console.log("Hello, World!");
