@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Walk today voice part.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
